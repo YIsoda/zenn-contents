@@ -1,0 +1,22 @@
+{
+  "name": "zenn-contents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YIsoda/zenn-contents.git"
+  },
+  "author": "Yosuke Isoda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YIsoda/zenn-contents/issues"
+  },
+  "homepage": "https://github.com/YIsoda/zenn-contents#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.115"
+  }
+}
